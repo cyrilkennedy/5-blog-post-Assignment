@@ -1,0 +1,109 @@
+.tech1{
+    font-style:unset ;
+    font-family: Times;
+    color: rgb(10, 10, 10);
+}
+.Transforming{
+    font-style:initial;
+    color: rgba(54, 4, 4, 0.855);
+}
+.par1{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 20px;
+}
+#but{
+    width: 100px;
+    color:white;
+    background-color: red;
+    border:none ;
+    height: 40px;
+    border-radius: 20px;
+}
+.img1{
+    width: 500px;
+}
+.advance{
+    font-style: oblique;
+    color: rgb(62, 17, 17);
+    font-family: Tahoma;
+}
+.par2{
+font-family: monospace;
+font-size: 20px;
+font-style: italic;
+}
+.but2{
+    width: 100px;
+    color: white;
+    background-color: rgb(74, 37, 3);
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+}
+.img2{
+    width: 500px;
+}
+.revol{
+font-style: inherit;
+color: rgb(97, 30, 30);
+font-family: 'Gill Sans MT';
+}
+.par3{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: oblique;
+}
+.but3{
+    width: 100px;
+    color: white;
+    background-color: rgb(26, 5, 95);
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+}
+.img3{
+    width: 500px;
+}
+.drive{
+    font-style: unset;
+    color: rgb(1, 67, 93);
+    font-family: 'Times New Roman';
+}
+.par4{
+    font-size: 20px;
+    font-family: Helvetica;
+    font-style: inherit;
+}
+.but4{
+     width: 100px;
+    color: white;
+    background-color: rgb(2, 45, 45);
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+}
+.img4{
+    width: 500px;
+}
+.empower{
+    font-style: initial;
+    color: rgb(49, 3, 49);
+    font-family: serif ;
+}
+.par5{
+    font-size: 20px;
+    font-style: unset;
+    font-family:'Arial Narrow Bold';
+}
+.but5{
+      width: 100px;
+    color: white;
+    background-color: rgb(60, 32, 16);
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+}
+.img5{
+    width: 500px;
+}
